@@ -4,7 +4,7 @@
 
 实验采用的是Subject1-Subject9的想象运动的数据集：
 
-'''
+```
 # subject=1-9, run=04,06,08,10,12,14
 S00[subject]R[run]
-'''
+```
