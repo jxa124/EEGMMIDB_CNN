@@ -24,3 +24,4 @@ S00[subject]R[run]
 * 从06,10,14中的fists,feet各选择1776,1531，然后组成最后的fists(5328),feet(4592),label为4,5;
 
 ## CNN网络结构
+![CNN_STRUCTURE](https://github.com/jxa124/EEGMMIDB_CNN/blob/master/cnn-8-shape.png)
