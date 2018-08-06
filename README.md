@@ -26,7 +26,13 @@ S00[subject]R[run]
 ## CNN网络结构
 ![CNN_STRUCTURE](https://github.com/jxa124/EEGMMIDB_CNN/blob/master/cnn-8-shape.png)
 
+
 ## 结果比较
 | Subject  | SUB1   |  SUB2  |  SUB3  |  SUB4  |  SUB5  |  SUB6  |  SUB7  |  SUB8  |  SUB9  |
 |  :----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 准确率   | 0.9274 |0.8901 |0.9140 |0.8722 |0.8671 |0.8864 |0.9274 |0.9034 |0.9311 |0.9263 |
+
+
+## 算法复杂度
+* 时间复杂度：O()
+* 空间复杂度：O()
